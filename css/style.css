@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: Helvetica, 'Open Sans', sans-serif;
+  /*------ Full page background gif image------*/
+  background-image: url('http://pixeljoint.com/files/icons/full/shstagewaterfall084slow1.gif');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/*------ Game title ------*/
+
+h1 {
+  color: white;
+  font-size: 300%;
+  margin-top: 60px;
+  margin-bottom: -10px;
+}
